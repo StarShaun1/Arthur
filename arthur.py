@@ -13,5 +13,5 @@ if lol == "y":
 else:
 	if lol == "n":
 		print("you die")
-else:
-	print("bitch u didnt even say either of those")
+	else:
+		print("bitch u didnt even say either of those")
